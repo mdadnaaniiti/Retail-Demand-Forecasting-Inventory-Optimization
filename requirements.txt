@@ -8,3 +8,4 @@ xgboost
 jupyter
 streamlit
 joblib
+altair
