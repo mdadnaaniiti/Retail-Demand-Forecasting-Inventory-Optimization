@@ -21,3 +21,4 @@ Thumbs.db
 # Temporary files
 *.log
 *.tmp
+data/processed/sales_features.csv
