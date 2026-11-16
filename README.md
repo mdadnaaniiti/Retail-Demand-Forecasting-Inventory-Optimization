@@ -1,5 +1,10 @@
 # Multi-Store Retail Demand Forecasting and Inventory Optimization
 
+🚀 **Live Demo:** [Click here to explore the deployed dashboard](https://retail-demand-forecasting-inventory-optimization-da28kf9yldvry.streamlit.app/)
+
+💻 **GitHub Repository:** [View Source Code](https://github.com/mdadnaaniiti/Retail-Demand-Forecasting-Inventory-Optimization)
+# Multi-Store Retail Demand Forecasting and Inventory Optimization
+
 An end-to-end Machine Learning project that forecasts retail product demand across multiple stores and uses demand predictions to generate inventory replenishment recommendations.
 
 The project combines time-series feature engineering, XGBoost forecasting, inventory optimization, policy backtesting and an interactive Streamlit dashboard.
